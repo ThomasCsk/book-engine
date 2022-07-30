@@ -26,7 +26,7 @@ To install this project, you can either clone the repository down to your own co
 
 ## Usage
   
-To check out this portfolio, you can visit the website at this link: [https://thomascsk.github.io/book-engine/](https://thomascsk.github.io/book-engine/)
+To check out this portfolio, you can visit the website at this link: [https://quiet-everglades-89105.herokuapp.com/](https://quiet-everglades-89105.herokuapp.com/)
 
 From there, you'll need to make an account. Then you have access to search and save books.
 
